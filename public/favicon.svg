@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="16" fill="#E8F4FF"/>
+  
+  <!-- Stethoscope -->
+  <path d="M10 20.5C10 19.1193 11.1193 18 12.5 18C13.8807 18 15 19.1193 15 20.5C15 21.8807 13.8807 23 12.5 23C11.1193 23 10 21.8807 10 20.5Z" fill="#0284C7"/>
+  <path d="M12.5 23C11.1193 23 10 21.8807 10 20.5V16C10 13.7909 11.7909 12 14 12H18C20.2091 12 22 13.7909 22 16V17.5C22 18.8807 23.1193 20 24.5 20C25.8807 20 27 18.8807 27 17.5C27 16.1193 25.8807 15 24.5 15" stroke="#0284C7" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="24.5" cy="17.5" r="2.5" fill="#0284C7"/>
+</svg> 
